@@ -72,7 +72,7 @@ and run a simple client/server example:
 Documentation
 *************
 
-*  API doc: `HTML <https://openucx.github.io/ucx/api/v{VERSION}/html/index.html>`_ `PDF <https://openucx.github.io/ucx/api/v{VERSION}/ucx-v{VERSION}.pdf>`_
+*  API doc: `HTML <https://openucx.github.io/ucx/api/latest/html/index.html>`_ `PDF <https://openucx.github.io/ucx/api/latest/ucx.pdf>`_
 * `Examples <https://github.com/openucx/ucx/tree/v{VERSION}.x/examples>`_
 
 
